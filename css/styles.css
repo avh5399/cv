@@ -1,0 +1,71 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #0c1b20;
+  margin: 0px;
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+  color: 	#f8f8ff;
+  height: 100%;
+  margin: 0;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  background-image: url("../Images/eruption_sunset.jpg") ;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.profile_pic {
+  height: 250px;
+  width: 250px;
+  margin: auto;
+  padding-top: 80px;
+}
+.name {
+  margin: 40px auto 0 auto;
+  font-size: 3rem;
+  color: #f8f8ff;
+  font-weight: normal;
+}
+
+.bio {
+  margin: 0 auto;
+  padding: 60px 0;
+ 
+}
+
+hello_world {
+  margin: 40px auto;
+  font-size: 3rem;
+  font-weight: normal;
+}
+.bio_description {
+  width: 30%;
+  margin: auto;
+  color :#f8f8ff;
+}
+
+.skill_row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.thank_you_message {
+  font-weight: normal;
+}
+
+.separator {
+  border: dotted;
+}
